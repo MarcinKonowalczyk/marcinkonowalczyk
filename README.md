@@ -1,4 +1,12 @@
-### Hi there 👋
+<div align="center">
+
+<img src="https://github.com/marcinkonowalczyk/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://github.com/marcinkonowalczyk/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+  
+<img src="https://github.com/marcinkonowalczyk/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only#gh-light-mode-only" />
+<img src="https://github.com/marcinkonowalczyk/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only#gh-light-mode-only" />
+  
+</div>
 
 <!--
 **MarcinKonowalczyk/marcinkonowalczyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
